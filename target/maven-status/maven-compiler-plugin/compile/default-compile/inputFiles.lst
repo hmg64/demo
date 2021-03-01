@@ -1,0 +1,6 @@
+/home/henk/Documents/Cursussen/Java_2021/Udemy_SpringBootEssentials/demo/src/main/java/eu/groesz/demo/dao/StudentDao.java
+/home/henk/Documents/Cursussen/Java_2021/Udemy_SpringBootEssentials/demo/src/main/java/eu/groesz/demo/SpringBootCourseApplication.java
+/home/henk/Documents/Cursussen/Java_2021/Udemy_SpringBootEssentials/demo/src/main/java/eu/groesz/demo/service/StudentService.java
+/home/henk/Documents/Cursussen/Java_2021/Udemy_SpringBootEssentials/demo/src/main/java/eu/groesz/demo/controller/StudentController.java
+/home/henk/Documents/Cursussen/Java_2021/Udemy_SpringBootEssentials/demo/src/main/java/eu/groesz/demo/dao/FakeStudentDaoImpl.java
+/home/henk/Documents/Cursussen/Java_2021/Udemy_SpringBootEssentials/demo/src/main/java/eu/groesz/demo/model/Student.java

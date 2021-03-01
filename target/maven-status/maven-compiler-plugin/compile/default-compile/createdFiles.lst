@@ -1,0 +1,6 @@
+eu/groesz/demo/dao/StudentDao.class
+eu/groesz/demo/dao/FakeStudentDaoImpl.class
+eu/groesz/demo/model/Student.class
+eu/groesz/demo/controller/StudentController.class
+eu/groesz/demo/SpringBootCourseApplication.class
+eu/groesz/demo/service/StudentService.class
